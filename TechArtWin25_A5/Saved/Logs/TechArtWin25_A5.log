@@ -1471,3 +1471,13 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.09-21.37.55:340][ 30]LogFab: Display: User logged in
 [2025.03.09-21.37.55:340][ 30]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2025.03.09-21.37.56:008][ 33]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-DeO6a1pI2kSAZR9JBpeWug-N9U9v1KD50Covx9GoaCZzw]
+[2025.03.09-21.38.48:401][339]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/ruobi/OneDrive/文档/GitHub/A5Project/TechArtWin25_A5/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2025.03.09-21.38.48:401][339]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/ruobi/OneDrive/文档/GitHub/A5Project/TechArtWin25_A5/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2025.03.09-21.38.48:401][339]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/ruobi/OneDrive/文档/GitHub/A5Project/TechArtWin25_A5/Content/Developers/ruobi/Collections/' because it could not be accessed. Aborting watch request...
+[2025.03.09-21.39.42:814][503]LogDerivedDataCache: C:/Users/ruobi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.09-21.41.17:637][789]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.03.09-21.41.20:442][938]LogSlate: Took 0.008444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.03.09-21.41.20:511][939]LogInterchangeEngine: [Pending] Importing
+[2025.03.09-21.41.20:676][939]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.03.09-21.41.20:676][939]LogInterchangeEngine: [Success] Import Done
+[2025.03.09-21.41.23:291][ 58]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
