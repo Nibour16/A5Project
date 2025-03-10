@@ -2378,3 +2378,11 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2025.03.10-05.01.52:566][944]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.03.10-05.01.52:566][944]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.10-05.01.52:566][944]AssetCheck: /Game/GwanghwamunComplex/Maps/AssignemntMap Validating asset
+[2025.03.10-05.03.23:023][597]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-05.03.23:023][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-05.03.23:084][597]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-05.03.23:084][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-05.03.23:114][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.03.10-05.03.30:250][650]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-05.03.30:250][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-05.03.30:568][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
